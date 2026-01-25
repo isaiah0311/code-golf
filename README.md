@@ -5,7 +5,7 @@ Solutions to the challenges from Code Golf.
 Code Golf offers several programming challenges where the objective is to get the program to match the desired output in as few characters/bytes as possible. This project contains solutions to these challenges. These solutions are not supposed to be the best possible solution, just a working solution. These challenges can be found at https://code.golf/.
 
 ## Challenges
-- Fibonacci: 61 bytes, 61 chars
+- Fibonacci: 60 bytes, 60 chars
 - Fizz Buzz: 107 bytes, 107 chars
 
 ## License

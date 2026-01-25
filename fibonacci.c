@@ -1,0 +1,1 @@
+main(){for(int p=1,n,i=31;i--;)printf("%d\n",n),n+=p,p=n-p;}
