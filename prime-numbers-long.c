@@ -1,0 +1,1 @@
+main(){for(int i=1,p,j;++i<10001;){p=0;for(j=1;++j<i;)if(i%j==0)p=1;if(!p)printf("%d\n",i);}}

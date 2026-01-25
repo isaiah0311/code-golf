@@ -9,6 +9,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - Fizz Buzz: 107 bytes, 107 chars
 - Foo Fizz Buzz Bar: 170 bytes, 170 chars
 - Prime Numbers: 91 bytes, 91 chars
+- Prime Numbers (Long): 93 bytes, 93 chars
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
