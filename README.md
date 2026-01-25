@@ -7,6 +7,7 @@ Code Golf offers several programming challenges where the objective is to get th
 ## Challenges
 - Fibonacci: 60 bytes, 60 chars
 - Fizz Buzz: 107 bytes, 107 chars
+- Foo Fizz Buzz Bar: 170 bytes, 170 chars
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
