@@ -1,0 +1,1 @@
+main(){for(int i,f,b;++i<101;)f=i%3,b=i%5,!f?printf("Fizz"):0,!b?puts("Buzz"):f?printf("%d\n",i):puts("");}
