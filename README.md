@@ -15,6 +15,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - Abundant Numbers: 84 bytes, 84 chars
 - Abundant Numbers (Long): 85 bytes, 85 chars
 - United States: 631 bytes, 631 chars
+- 99 Bottles of Beer: 334 bytes, 334 chars
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
