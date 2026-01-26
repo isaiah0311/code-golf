@@ -14,7 +14,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - Leap Years: 74 bytes, 74 chars
 - Abundant Numbers: 84 bytes, 84 chars
 - Abundant Numbers (Long): 85 bytes, 85 chars
-- United States: 631 bytes, 631 chars
+- United States: 618 bytes, 618 chars
 - 99 Bottles of Beer: 334 bytes, 334 chars
 - ASCII Table: 153 bytes, 153 chars
 - Tic-tac-toe: 188 bytes, 188 chars
