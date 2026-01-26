@@ -11,7 +11,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - Prime Numbers: 79 bytes, 79 chars
 - Prime Numbers (Long): 81 bytes, 81 chars
 - ROT13: 155 bytes, 155 chars
-- Leap Years: 75 bytes, 75 chars
+- Leap Years: 74 bytes, 74 chars
 - Abundant Numbers: 84 bytes, 84 chars
 
 ## License
