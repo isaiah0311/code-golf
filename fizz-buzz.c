@@ -1,1 +1,2 @@
-main(i,f,b){for(i=0;++i<101;)i%3<1?printf("Fizz"):0,i%5<1?puts("Buzz"):i%3?printf("%d\n",i):puts("");}
+main(i,f,b){for(i=0;++i<101;)i%3<1?printf("Fizz"):0,i%5<1?puts("Buzz"):i%3?printf("%d
+",i):puts("");}
