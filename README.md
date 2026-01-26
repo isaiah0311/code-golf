@@ -13,6 +13,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - ROT13: 155 bytes, 155 chars
 - Leap Years: 74 bytes, 74 chars
 - Abundant Numbers: 84 bytes, 84 chars
+- Abundant Numbers (Long): 85 bytes, 85 chars
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
