@@ -1,1 +1,1 @@
-main(i,j,p){for(i=1;++i<10001;){for(p=0,j=1;++j<i;)p+=i%j<1;p?0:printf("%d\n",i);}}
+main(i,j,p){for(i=0;++i<10001;p=0){for(j=1;++j<i;)p+=i%j<1;p?0:printf("%d\n",i);}}
