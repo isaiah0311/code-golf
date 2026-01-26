@@ -1,1 +1,1 @@
-main(){for(int i;++i<1001;){if(i%2<1)printf("Foo");if(i%3<1)printf("Fizz");if(i%5<1)printf("Buzz");if(i%7<1)printf("Bar");if(i%2&&i%3&&i%5&&i%7)printf("%d",i);puts("");}}
+main(i){for(i=0;++i<1001;){i%2?0:printf("Foo");i%3?0:printf("Fizz");i%5?0:printf("Buzz");i%7?0:printf("Bar");i%2&&i%3&&i%5&&i%7?printf("%d",i):0;puts("");}}

@@ -7,7 +7,7 @@ Code Golf offers several programming challenges where the objective is to get th
 ## Challenges
 - Fibonacci: 60 bytes, 60 chars
 - Fizz Buzz: 102 bytes, 102 chars
-- Foo Fizz Buzz Bar: 170 bytes, 170 chars
+- Foo Fizz Buzz Bar: 156 bytes, 156 chars
 - Prime Numbers: 91 bytes, 91 chars
 - Prime Numbers (Long): 93 bytes, 93 chars
 - ROT13: 155 bytes, 155 chars
