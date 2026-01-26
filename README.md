@@ -9,7 +9,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - Fizz Buzz: 102 bytes, 102 chars
 - Foo Fizz Buzz Bar: 156 bytes, 156 chars
 - Prime Numbers: 81 bytes, 81 chars
-- Prime Numbers (Long): 93 bytes, 93 chars
+- Prime Numbers (Long): 83 bytes, 83 chars
 - ROT13: 155 bytes, 155 chars
 - Leap Years: 75 bytes, 75 chars
 
