@@ -18,6 +18,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - 99 Bottles of Beer: 334 bytes, 334 chars
 - ASCII Table: 153 bytes, 153 chars
 - Tic-tac-toe: 188 bytes, 188 chars
+- Pi: 1,019 bytes, 1,019 chars
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
