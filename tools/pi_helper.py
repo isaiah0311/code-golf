@@ -2,14 +2,20 @@ pi = "14159265358979323846264338327950288419716939937510582097494459230781640628
 string = ""
 
 for i in range(0, len(pi), 2):
-    char = ((int(pi[i]) * 10) + int(pi[i + 1])) + 32
-    if char == 34:
+    char = (int(pi[i]) * 10) + int(pi[i + 1]) + 27
+    if char < 32:
+        next = (int(pi[i + 2]) * 10) + int(pi[i + 3]) + 27
+        if next >= 48 and next <= 57:
+            string += f"\\{char:03o}"
+        else:
+            string += f"\\{char:o}"
+    elif char == 34:
         string += "\\\""
     elif char == 92:
         string += "\\\\"
-    elif char >= 127:
-        string += f"\\{oct(char)[2:]}"
+    elif char == 127:
+        string += f"\\{char:o}"
     else:
         string += chr(char)
 
-print("unsigned char*s=\"" + string + "\";")
+print("char*s=\"" + string + "\";")
