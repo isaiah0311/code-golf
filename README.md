@@ -19,6 +19,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - ASCII Table: 153 bytes, 153 chars
 - Tic-tac-toe: 188 bytes, 188 chars
 - Pi: 624 bytes, 624 chars
+- Rijndael S-box: 308 bytes, 308 chars
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
