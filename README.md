@@ -18,7 +18,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - 99 Bottles of Beer: 334 bytes, 334 chars
 - ASCII Table: 153 bytes, 153 chars
 - Tic-tac-toe: 188 bytes, 188 chars
-- Pi: 624 bytes, 624 chars
+- Pi: 620 bytes, 620 chars
 - Rijndael S-box: 308 bytes, 308 chars
 - Card Number Validation: 151 bytes, 151 chars
 
