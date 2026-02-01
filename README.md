@@ -20,7 +20,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - Tic-tac-toe: 188 bytes, 188 chars
 - Pi: 620 bytes, 620 chars
 - Rijndael S-box: 308 bytes, 308 chars
-- Card Number Validation: 151 bytes, 151 chars
+- Card Number Validation: 147 bytes, 147 chars
 - Arabic to Roman: 242 bytes, 242 chars
 
 ## License
