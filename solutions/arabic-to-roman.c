@@ -1,1 +1,1 @@
-main(c,v,i)char**v;{int a[]={1000,900,500,400,100,90,50,40,10,9,5,4,1};char*r[]={"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};for(;*++v;){c=strtol(*v,0,10);for(i=0;i<13;++i){while(c>=a[i]){printf("%s",r[i]);c-=a[i];}}puts("");}}
+main(c,v,i)char**v;{int a[]={1,4,5,9,10,40,50,90,100,400,500,900,1000};char*r[]={"I","IV","V","IX","X","XL","L","XC","C","CD","D","CM","M"};for(;*++v;){c=strtol(*v,0,10);for(i=13;i--;)while(c>=a[i])printf("%s",r[i]),c-=a[i];puts("");}}
