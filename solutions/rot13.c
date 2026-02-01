@@ -1,1 +1,1 @@
-main(int c,char**v){for(;*++v;){for(char*s=*v;*s;++s){int x=*s,u=x<91;if((x>64&&u)||(x>96&&x<123)){x+=13;x>122||(u&&x>90)?x-=26:0;}putchar(x);}puts("");}}
+main(c,v)char**v;{for(;*++v;){for(char*s=*v;*s;++s){int x=*s,u=x<91;if((x>64&&u)||(x>96&&x<123)){x+=13;x>122||(u&&x>90)?x-=26:0;}putchar(x);}puts("");}}
