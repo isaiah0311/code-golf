@@ -1,1 +1,1 @@
-main(c,v,x,y,i,n)char**v;{for(;*++v;){char*s=*v;x=n=0;for(i=19;--i>=0;){if(s[i]==32)continue;y=s[i]-48;x+=n++%2?y>4?2*y-9:2*y:y;}x%10?0:puts(*v);}}
+main(c,v,x,y,i,n)char**v;{for(;*++v;){char*s=*v;x=n=0;for(i=19;--i>=0;)s[i]!=32?y=s[i]-48,x+=n++%2?y>4?2*y-9:2*y:y:0;x%10?0:puts(*v);}}
