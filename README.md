@@ -13,7 +13,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - ROT13: 152 bytes, 152 chars
 - Leap Years: 66 bytes, 66 chars
 - Abundant Numbers: 81 bytes, 81 chars
-- Abundant Numbers (Long): 85 bytes, 85 chars
+- Abundant Numbers (Long): 82 bytes, 82 chars
 - United States: 616 bytes, 616 chars
 - 99 Bottles of Beer: 334 bytes, 334 chars
 - ASCII Table: 153 bytes, 153 chars
