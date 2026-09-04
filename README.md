@@ -22,6 +22,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - Rijndael S-box: 308 bytes, 308 chars
 - Card Number Validation: 133 bytes, 133 chars
 - Arabic to Roman: 235 bytes, 235 chars
+- Evil Numbers: 82 bytes, 82 chars
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
