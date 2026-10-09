@@ -15,7 +15,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - Abundant Numbers: 81 bytes, 81 chars
 - Abundant Numbers (Long): 82 bytes, 82 chars
 - United States: 616 bytes, 616 chars
-- 99 Bottles of Beer: 334 bytes, 334 chars
+- 99 Bottles of Beer: 320 bytes, 320 chars
 - ASCII Table: 153 bytes, 153 chars
 - Tic-tac-toe: 186 bytes, 186 chars
 - Pi: 620 bytes, 620 chars
