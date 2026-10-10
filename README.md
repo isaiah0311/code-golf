@@ -21,7 +21,7 @@ Code Golf offers several programming challenges where the objective is to get th
 - Pi: 620 bytes, 620 chars
 - Rijndael S-box: 308 bytes, 308 chars
 - Card Number Validation: 133 bytes, 133 chars
-- Arabic to Roman: 235 bytes, 235 chars
+- Arabic to Roman: 228 bytes, 228 chars
 - Evil Numbers: 82 bytes, 82 chars
 - Evil Numbers (Long): 84 bytes, 84 chars
 
